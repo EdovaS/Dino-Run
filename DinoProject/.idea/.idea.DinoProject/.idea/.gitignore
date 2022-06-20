@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.DinoProject.iml
+# Datasource local storage ignored files
+/../../../../../../../:\UNITY\2022 - Current\DinoProject\.idea\.idea.DinoProject\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
